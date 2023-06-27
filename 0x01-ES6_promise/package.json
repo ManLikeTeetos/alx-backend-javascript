@@ -8,5 +8,10 @@
     "babel-jest": "^29.5.0",
     "eslint": "^8.43.0",
     "jest": "^29.5.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "my-script": "node testfolder/0-main.js"
   }
 }
